@@ -1,0 +1,14 @@
+body
+{
+    background:rgb(225, 84, 77);
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10;
+    float: none;
+    text-align: left;
+}
